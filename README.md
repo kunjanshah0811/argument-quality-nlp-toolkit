@@ -1,7 +1,6 @@
 # argument-quality-nlp-toolkit
 
 A unified pipeline for argumentation mining and quality assessment using classical NLP and supervised ML techniques, built around the Dagstuhl-15512-ArgQuality corpus.
-## Modules
 
 ## Modules
 
